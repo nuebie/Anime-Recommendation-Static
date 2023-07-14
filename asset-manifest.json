@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Anime-Recommendation-Static/static/css/main.82350c12.css",
+    "main.js": "/Anime-Recommendation-Static/static/js/main.97817523.js",
+    "static/js/787.4adf86f1.chunk.js": "/Anime-Recommendation-Static/static/js/787.4adf86f1.chunk.js",
+    "static/media/sampleimg.jpg": "/Anime-Recommendation-Static/static/media/sampleimg.1df2e2a5ba615f1dd43d.jpg",
+    "index.html": "/Anime-Recommendation-Static/index.html",
+    "static/media/blob-haikei.svg": "/Anime-Recommendation-Static/static/media/blob-haikei.165fdb23657f25a222c8.svg",
+    "main.82350c12.css.map": "/Anime-Recommendation-Static/static/css/main.82350c12.css.map",
+    "main.97817523.js.map": "/Anime-Recommendation-Static/static/js/main.97817523.js.map",
+    "787.4adf86f1.chunk.js.map": "/Anime-Recommendation-Static/static/js/787.4adf86f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82350c12.css",
+    "static/js/main.97817523.js"
+  ]
+}
